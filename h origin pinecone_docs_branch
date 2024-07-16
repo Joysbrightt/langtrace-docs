@@ -1,0 +1,10 @@
+[33mcommit 4094351cd0be7d23d70e74ac85c497f2dc6fb445[m[33m ([m[1;32mtemp_fix_branch[m[33m)[m
+Author: Joysbrightt <oladoyinoluwatomisin11@gmail.com>
+Date:   Tue Jul 16 04:57:09 2024 +0100
+
+    "Corrected the langtrace-pinecone docs "
+
+[1mdiff --git a/images/pinecone.png b/images/pinecone.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..37eb271[m
+Binary files /dev/null and b/images/pinecone.png differ
